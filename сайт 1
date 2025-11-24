@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kane’s Wrath Winter Cup 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a0a0a;
+            color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1a1a1a;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+            color: #ff4c4c;
+        }
+        header p {
+            font-size: 1.2em;
+            color: #cccccc;
+        }
+        nav {
+            background-color: #111;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 15px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        nav a:hover {
+            color: #ff4c4c;
+        }
+        .banner {
+            width: 100%;
+            height: 400px;
+            background-size: cover;
+            background-position: center;
+        }
+        .banner1 {
+            background-image: url('https://mgames.ua/upload/catalog_products_photos/images/s_756d1feebc662800b2355ca4c6513fef1571680340.jpg');
+        }
+        .banner2 {
+            background-image: url('https://i.ytimg.com/vi/rhtncHlqfso/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0dCZMub0pjCZVh7x-97y0ZAPiQw');
+            margin-top: 20px;
+        }
+        main {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        section {
+            margin-bottom: 60px;
+        }
+        h2 {
+            color: #ff4c4c;
+            margin-bottom: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        a.button {
+            display: inline-block;
+            padding: 12px 25px;
+            background-color: #ff4c4c;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+        a.button:hover {
+            background-color: #e03b3b;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #fff;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #222;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #1a1a1a;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Kane’s Wrath Winter Cup 2025</h1>
+    <p>Стань свидетелем эпических сражений!</p>
+    <p><strong>Дата турнира: 22 декабря 2025 года в 12:00</strong></p>
+</header>
+
+<nav>
+    <a href="#about-game">Об игре</a>
+    <a href="#factions">Фракции</a>
+    <a href="#how-to-play">Как играть</a>
+    <a href="#tournament">Турнирная таблица</a>
+    <a href="#watch">Где смотреть</a>
+</nav>
+
+<div class="banner banner1"></div>
+<div class="banner banner2"></div>
+
+<main>
+    <section id="about-game">
+        <h2>Об игре</h2>
+        <p><strong>Tiberium Wars: Kane’s Wrath</strong> — это стратегия в реальном времени, которая разворачивается во вселенной Tiberium, где две основные фракции, GDI и Nod, сражаются за контроль над ценным минералом — тайбериумом. Игроки управляют базами, армиями и технологиями, чтобы одержать победу в масштабных сражениях. Kane’s Wrath добавляет кампанию для одного игрока, новые юниты, авиацию и тактические возможности для мультиплеера.</p>
+    </section>
+
+    <section id="factions">
+        <h2>Фракции и техника</h2>
+        <h3>GDI (Global Defense Initiative)</h3>
+        <p>Организация, стремящаяся защитить человечество и поддерживать порядок. Основные юниты:</p>
+        <ul>
+            <li>Пехота: Rifle Infantry, Missile Infantry</li>
+            <li>Техника: Predator Tank, Mammoth Tank, Mobile Construction Vehicle</li>
+            <li>Авиация: Orca Gunship, Orca Transport</li>
+            <li>Особенности: мощные танки, надежная оборона, воздушная поддержка</li>
+        </ul>
+
+        <h3>Nod (Brotherhood of Nod)</h3>
+        <p>Тайная организация, поклоняющаяся Кейнe. Основные юниты:</p>
+        <ul>
+            <li>Пехота: Light Infantry, Stealth Infantry, Rocket Infantry</li>
+            <li>Техника: Scorpion Tank, Flame Tank, Mobile Construction Vehicle</li>
+            <li>Авиация: Vertigo Gunship, Attack Helicopter</li>
+            <li>Особенности: скрытность, быстрые удары, сильные спецоружия</li>
+        </ul>
+
+        <h3>Союзники и другие юниты</h3>
+        <ul>
+            <li>Диверсионные юниты: Saboteurs, Drone Units</li>
+            <li>Супероружие: Ion Cannon (GDI), Nuclear Missile (Nod)</li>
+            <li>Секретные технологии и элитные подразделения</li>
+        </ul>
+    </section>
+
+    <section id="how-to-play">
+        <h2>Как играть</h2>
+        <p>Основная цель игры — уничтожить базу противника и контролировать территорию. Советы по игре:</p>
+        <ul>
+            <li>Стройте базу и собирайте тайбериум для ресурсов.</li>
+            <li>Развивайте технологии и юниты для усиления армии.</li>
+            <li>Используйте комбинацию пехоты, техники и авиации для тактического преимущества.</li>
+            <li>Следите за разведкой и скрытными атаками противника.</li>
+            <li>Супероружие и элитные юниты могут изменить ход боя.</li>
+        </ul>
+    </section>
+
+    <section id="tournament">
+        <h2>Турнирная таблица</h2>
+        <p>Здесь будет таблица участников Winter Cup 2025. Вы можете добавлять имена игроков, очки и результаты матчей:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Игрок</th>
+                    <th>Фракция</th>
+                    <th>Очки</th>
+                    <th>Матчи</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Сюда можно вставлять строки с игроками -->
+            </tbody>
+        </table>
+    </section>
+
+    <section id="watch">
+        <h2>Где смотреть</h2>
+        <p>Трансляция всех матчей Winter Cup 2025 будет проходить на нашем официальном YouTube-канале. Не пропустите ни одной битвы!</p>
+        <a href="https://www.youtube.com/channel/UCp5AhO655qaVWmiDFIPgl-A" class="button" target="_blank">Смотреть на YouTube</a>
+    </section>
+</main>
+
+<footer>
+    &copy; 2025 Kane’s Wrath Winter Cup. Все права защищены.
+</footer>
+
+</body>
+</html>
+
+
